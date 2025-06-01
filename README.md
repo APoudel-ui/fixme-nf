@@ -11,6 +11,7 @@ A basic (broken) genomic pipeline edited from nextflow.io.
 * Java 11 
 
 ## Quicksrtat 
+## Quickstart
 
 1. If you don't have it allready install Docker in your computor. Read more [here](https://docs.docker.com/).
 
